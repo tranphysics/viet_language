@@ -1,29 +1,4 @@
-# ****************************************************************************
-#
-# AEONSEMI CONFIDENTIAL
-# _____________________
-#
-# Aeonsemi Inc., 2020
-# All Rights Reserved.
-#
-# NOTICE:  All information contained herein is, and remains the property of
-# Aeonsemi Inc. and its subsidiaries, if any. The intellectual and technical
-# concepts contained herein are proprietary to Aeonsemi Inc. and its
-# subsidiaries and may be covered by U.S. and Foreign Patents, patents in
-# process, and are protected by trade secret or copyright law. Dissemination
-# of this information or reproduction of this material is strictly forbidden
-# unless prior written permission is obtained from Aeonsemi Inc.
-#
-#
-# Author: Ky-Anh Tran (kyanht@aeonsemi.com)
-# Date Created: Sun Oct 18 20:04:07 2020
-# Project: NEMO
-#
-# Version History
-# ---------------
-# <DD-MM-YY> Initial version.
-#
-# ****************************************************************************
+
 """<One-line description.>
 
 <More detailed description here.>
