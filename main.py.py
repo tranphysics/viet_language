@@ -1,7 +1,11 @@
 
-"""<One-line description.>
+"""  Run script to parse a vietnamese text
 
-<More detailed description here.>
+- set variables DEBUG, PLOT, TEST based on your use case.
+- set variable file to the filename you want to analyze
+- Run:
+   - Will create a report of distribution of sounds
+   - Will plot if you set PLOT=True
 """
 import numpy as np
 import time
